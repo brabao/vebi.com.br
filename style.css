@@ -1,0 +1,7 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
+ul, ol { list-style: none; }
+section, article, aside, header, footer, nav, dialog, figure { display: block; }
+header, nav, section, article, dialog, figure, aside, footer { display: block; margin: 0; padding: 0; }
+
+body { background: #fff; font-size: 14px; font-family: Calibri, "Myriad Pro" , Arial, "Times New Roman"; }
+#WebSiteContent { width: 950px; margin: 50px auto; }
